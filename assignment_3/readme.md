@@ -3,8 +3,8 @@
 | Task No. | Colab Link |
 | ----------- | ---------- |
 | Task 1: Frequency Domain Analysis - Resizing | <a target="_blank" href="https://colab.research.google.com/github/ee604/ee604_assignments/blob/master/assignment_3/Task_1.ipynb">Run in Google Colab</a> |
-| Task 2: Image Enhancement II: Spatial Smoothing | <a target="_blank" href="https://colab.research.google.com/github/ee604/ee604_assignments/blob/master/assignment_3/Task_2.ipynb">Run in Google Colab</a> |
-| Task 3: Image Enhancement III: Sharpening | <a target="_blank" href="https://colab.research.google.com/github/ee604/ee604_assignments/blob/master/assignment_3/Task_3.ipynb">Run in Google Colab</a> |
+| Task 2: Frequency Domain Analysis - Filtering | <a target="_blank" href="https://colab.research.google.com/github/ee604/ee604_assignments/blob/master/assignment_3/Task_2.ipynb">Run in Google Colab</a> |
+| Task 3: Color Image Processing: Revisiting Histogram Equalization | <a target="_blank" href="https://colab.research.google.com/github/ee604/ee604_assignments/blob/master/assignment_3/Task_3.ipynb">Run in Google Colab</a> |
 | Task 4: Bonus Question | <a target="_blank" href="">Will be up by Nov 13</a> |
 
 ## Submission
